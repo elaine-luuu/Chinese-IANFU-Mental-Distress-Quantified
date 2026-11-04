@@ -1,7 +1,7 @@
 #### This repository analyze the Sexual Exploitation and Mental Distress Level of Chinese Comfort Women during WWII
-         (Ecclesiastes 4:1)So I returned, and considered all the oppressions that are done under the sun: and behold the tears of such as were oppressed, and they had no comforter; and on the side of their oppressors there was power; but they had no comforter.
-#### Keywords: Semantic Syntactic Analysi
-#### Methodology Precedent: Holocaust Testimony
+    (Ecclesiastes 4:1)So I returned, and considered all the oppressions that are done under the sun: and behold the tears of such as were oppressed, and they had no comforter; and on the side of their oppressors there was power; but they had no comforter.
+    Keywords: Semantic Syntactic Analysi
+    Methodology Precedent: Holocaust Testimony
     Hypothesis:
 H1 (Measurement):
 #### Mental Distress can be coded reliably from testimony text as coded by symptom criterion, compared to generic sentiment analysis. { symptom-based classifier will agree with human coders (target κ ≥ 0.6, F1 ≥ 0.7)}
