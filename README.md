@@ -15,4 +15,25 @@
 H3 (Mismatch):
 #### Substantial share of expressed distress is somatic & social, such as bodily illness described by terms in Traditional Chinese Medicine, infertility, and exclusion from marriage and the village.
 {Their exact mental distress level can fall far outside both Western criteria sets.}
+
+    Variables:
+IV (Independent Variable):
+Survivors’ life phase:
+o prewar, capture, captivity, postwar, redress.
+Postwar condition: 
+omarital status, children, participation in litigation.
+Diagnostic framework (for H2/H3):
+o DSM-5 vs. ICD-11 vs. outside both, compared within the same survivors.
+DV (Dependent Variable):
+Mental Distress level (whether each passage expresses distress, coded by criterion cluster) 
+DSM-5 PTSD: intrusion, avoidance, negative cognition/mood, arousal.
+ICD-11 complex PTSD: affect dysregulation, negative self-concept, relational disturbance.
+Outside both: somatic complaint, social exclusion.
+Survivor level: 
+criteria coverage;  the share of criterion clusters with at least one supporting passage per survivor.
+Controlled Variable: 
+Gender of Collector (Zhang vs. Su & Chen vs. Qiu); Length of Testimony; Age at survivor’s Capture; Length of their Captivity.
+Cautions:
+"Coverage" is not diagnosis. Report it as textual evidence for criteria. The DSM's trauma criterion (Criterion A) is met by definition here, so leave it out of the count, or it inflates every survivor's score.
+Avoidance is a measurement trap. It is the criterion most likely to show up as silence rather than as words. If you only code what is said, H2 is biased against avoidance. Code collector notes on refusals and breakdowns as evidence too.
 # Chinese-IANFU-Mental-Distress-Quantified
