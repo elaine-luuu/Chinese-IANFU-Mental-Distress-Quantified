@@ -23,7 +23,7 @@
 {Their exact mental distress level can fall far outside both Western criteria sets.}
 
     Variables:
-IV (Independent Variable):
+    IV (Independent Variable):
 Survivors’ life phase:
     prewar, capture, captivity, postwar, redress.
 Postwar condition: 
@@ -31,7 +31,7 @@ IV (Independent Variable):
 Diagnostic framework (for H2/H3):
 DSM-5 vs. ICD-11 vs. outside both, compared within the same survivors.
     
-DV (Dependent Variable):
+    DV (Dependent Variable):
 Mental Distress level (whether each passage expresses distress, coded by criterion cluster) 
 DSM-5 PTSD: intrusion, avoidance, negative cognition/mood, arousal.
 ICD-11 complex PTSD: affect dysregulation, negative self-concept, relational disturbance.
@@ -39,7 +39,7 @@ DV (Dependent Variable):
     Survivor level: 
 criteria coverage;  the share of criterion clusters with at least one supporting passage per survivor.
 
-Controlled Variable: 
+    Controlled Variable: 
 Gender of Collector (Zhang vs. Su & Chen vs. Qiu); Length of Testimony; Age at survivor’s Capture; Length of their Captivity.
     
 
